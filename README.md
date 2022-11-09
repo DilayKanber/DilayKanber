@@ -2,10 +2,10 @@
 - 🌱 I’m currently learning SAP and Software Testing
 - 📫 How to reach me : dilaykanber@gmail.com
 
-Techonoliges : SQL, HTML, CSS, JavaScript
+Technologies : SQL, HTML, CSS, JavaScript, C, C++
 
 
-Tools : Visual Studio, Management Studio, Postman,Trello
+Tools : Visual Studio, Management Studio, Postman,Trello, CodeBlocks
 
                        
 
